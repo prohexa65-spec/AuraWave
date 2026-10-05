@@ -1,0 +1,6 @@
+{
+  "name": "AuraWave - AI Music Studio & Mobile DAW",
+  "description": "Self-contained AI music generator and digital audio workstation with real-time multi-track synthesis, interactive pattern sequencer, stem mixer, and WAV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
